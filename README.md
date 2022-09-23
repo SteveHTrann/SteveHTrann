@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steve Tran</h1>
-<h3 align="center">A passionate Full Stack developer from Michigan</h3>
+<h3 align="center">A Passionate Full Stack Developer from Michigan</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"
 
 <p align="left"> <a href="https://twitter.com/stevehtran" target="blank"><img src="https://img.shields.io/twitter/follow/stevehtran?logo=twitter&style=for-the-badge" alt="stevehtran" /></a> </p>
